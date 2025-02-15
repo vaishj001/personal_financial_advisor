@@ -106,5 +106,5 @@ Based on analysis, the tool suggests:
 
 ## 🔧 Usage Instructions
 
-- **GitHub Repository** → Clone the repository: `git clone https://github.com/vaishj001/personal_financial_advisor.git`
+- **GitHub Repository** → `git clone https://github.com/vaishj001/personal_financial_advisor.git`
 - **Streamlit App** → [Link to Hosted App]
