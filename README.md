@@ -47,7 +47,7 @@ This project builds a **Personal Financial Advisor** tool that predicts financia
 | **Data Processing**  | Pandas, NumPy               |
 | **Machine Learning** | Scikit-learn, Random Forest |
 | **Visualization**    | Matplotlib, Seaborn         |
-| **Model Deployment** | Joblib, Streamlit Cloud     |
+| **Model Deployment** | Joblib, Streamlit           |
 
 ---
 
