@@ -88,13 +88,6 @@ Based on analysis, the tool suggests:
 
 ---
 
-## 🔧 Usage Instructions
-
-- **GitHub Repository** → Clone the repository: `git clone https://github.com/vaishj001/personal_financial_advisor.git`
-- **Streamlit App** → [Link to Hosted App]
-
----
-
 ## ⚠️ Assumptions & Limitations
 
 - Assumes accurate **self-reported financial data**.
@@ -108,3 +101,10 @@ Based on analysis, the tool suggests:
 - Deploy on **Streamlit Cloud** for public access.
 - Fine-tune model with additional **socioeconomic indicators**.
 - Expand recommendation logic using **real-time financial data**.
+
+---
+
+## 🔧 Usage Instructions
+
+- **GitHub Repository** → Clone the repository: `git clone https://github.com/vaishj001/personal_financial_advisor.git`
+- **Streamlit App** → [Link to Hosted App]
