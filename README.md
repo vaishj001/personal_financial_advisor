@@ -36,9 +36,7 @@ This project builds a **Personal Financial Advisor** tool that predicts financia
 - **Machine Learning Model** → Trained a Random Forest classifier to detect financial stress.
 - **Evaluation Metrics** → Used accuracy and recall to assess model performance.
 
----
-
-## 💻 Tech Stack
+### 💻 Tech Stack
 
 | Task                 | Tools & Methods             |
 | -------------------- | --------------------------- |
