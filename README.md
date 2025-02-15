@@ -72,7 +72,7 @@ This project builds a **Personal Financial Advisor** tool that predicts financia
 
 ---
 
-## 🔎 Model Performance & Insights
+## 📈 Model Performance & Insights
 
 - **Financial Stress Prediction** → Achieved **98% accuracy** in classifying high-risk households.
 - **Recall Improvement** → Enhanced detection of high-stress cases by **7%** through feature engineering.
